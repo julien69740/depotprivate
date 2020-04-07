@@ -1,1 +1,1 @@
-FROM access-logger:1.3.17
+FROM access-logger/accessLogger:1.3.17
