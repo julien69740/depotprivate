@@ -1,1 +1,1 @@
-FROM solo-io/access-logger
+FROM solo.io/access-logger
